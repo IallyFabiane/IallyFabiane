@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IallyFabiane
-- 👀 I’m interested in HTML5/CSS3
+- 👀 I’m interested in HTML5/CSS3, Git, Github, Javascript
 - 🌱 I’m currently learning HTML5, CSS3, Git and GitHub 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
