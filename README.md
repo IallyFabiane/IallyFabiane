@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IallyFabiane
-- 👀 I’m interested in HTML5/CSS3, Git, Github, Javascript, React, TypeScript, Docker
-- 🌱 I’m currently learning HTML5, CSS3, Git, GitHub, JavaScript, React, Docker
+- 👀 I’m interested in HTML5/CSS3, Git, Github, Javascript, React, TypeScript, Jest and React Testing Library
+- 🌱 I’m currently learning HTML5, CSS3, Git, GitHub, JavaScript, React, TypeScript, Jest and React Testing Library
 
 <!---
 IallyFabiane/IallyFabiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
